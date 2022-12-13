@@ -1,4 +1,4 @@
-# Dog Kennel
+# Read Me Generator
 ## Table of contents
 - [Description](#description)
 - [License](#license)
@@ -6,6 +6,6 @@
 - [Usage](#usage)
 - [Contribution](#contribution)
 ## Description
-Training classes, Doogy day care, Donations
+Made a Read Me Generator using inquire and node.JS
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
